@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Create React App version：2.1.8
+
+### `Create React App version：2.1.8`
 
 ### `npm install`
 
